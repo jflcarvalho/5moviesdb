@@ -1,0 +1,45 @@
+header {
+    background-color: rgba(200, 200, 200, 0.9);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li,
+:link {
+    display: inline-block;
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.link {
+    text-decoration: none;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+li:not(:last-child) :link {
+    margin-right: 25px;
+}

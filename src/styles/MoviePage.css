@@ -1,0 +1,64 @@
+.detail-container {
+    margin-top: 40px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    color: rgba(20, 20, 20, 0.6);
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.field .title {
+    font-weight: 500;
+    font-size: 2em;
+}
+
+.field .label {
+    font-weight: 500;
+    font-size: 1.25em;
+}
+
+.field .label .label-p {
+    font-weight: 300;
+    font-size: 1em;
+    display: inline;
+}
+
+.genre-label {
+    margin-right: .25em;
+}
+
+.label-overview {
+    font-weight: 400;
+}
+
+.poster img {
+    border-radius: .5em;
+    width: 100%;
+}
+
+.movie-infos {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.movie-infos .label {
+    font-weight: 500;
+    font-size: 1.25em;
+    text-align: center;
+}
+
+.movie-infos #value {
+    font-weight: 500;
+    font-size: 1.1em;
+}
