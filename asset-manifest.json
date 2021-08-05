@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/5moviesdb/static/css/main.ce0a0a95.chunk.css",
+    "main.js": "/5moviesdb/static/js/main.00eef9d2.chunk.js",
+    "main.js.map": "/5moviesdb/static/js/main.00eef9d2.chunk.js.map",
+    "runtime-main.js": "/5moviesdb/static/js/runtime-main.6053c212.js",
+    "runtime-main.js.map": "/5moviesdb/static/js/runtime-main.6053c212.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/5moviesdb/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.f08859db.chunk.js": "/5moviesdb/static/js/2.f08859db.chunk.js",
+    "static/js/2.f08859db.chunk.js.map": "/5moviesdb/static/js/2.f08859db.chunk.js.map",
+    "static/js/3.2ccc8652.chunk.js": "/5moviesdb/static/js/3.2ccc8652.chunk.js",
+    "static/js/3.2ccc8652.chunk.js.map": "/5moviesdb/static/js/3.2ccc8652.chunk.js.map",
+    "index.html": "/5moviesdb/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/5moviesdb/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.ce0a0a95.chunk.css.map": "/5moviesdb/static/css/main.ce0a0a95.chunk.css.map",
+    "static/js/2.f08859db.chunk.js.LICENSE.txt": "/5moviesdb/static/js/2.f08859db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6053c212.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.f08859db.chunk.js",
+    "static/css/main.ce0a0a95.chunk.css",
+    "static/js/main.00eef9d2.chunk.js"
+  ]
+}
